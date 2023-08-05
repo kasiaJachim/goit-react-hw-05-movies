@@ -1,4 +1,3 @@
-import { lazy } from 'react';
 import { useLocation, Link } from 'react-router-dom';
 import css from './movieList.module.css';
 import noMovieImg from 'img/no-poster-available.jpg';
