@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/986.1512a52c.chunk.css","mappings":"AAAA,0BACI,YAAa,CAEb,cAAe,CAEf,cAAe,CAHf,QAAS,CAIV,eAAgB,CAFf,YAGJ","sources":["components/MovieCredits/movieCredits.module.css"],"sourcesContent":[".cast{\n    display: flex;\n    gap: 20px;\n    flex-wrap: wrap;\n    padding: 10px;\n    font-size: 16px;\n   list-style: none;\n}\n\n"],"names":[],"sourceRoot":""}
