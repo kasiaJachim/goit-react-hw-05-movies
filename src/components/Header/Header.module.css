@@ -1,0 +1,14 @@
+.navigation{
+color: black;
+border: 1px rgba(212, 191, 191, 0.595) solid;
+margin-bottom: 10px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+text-align: center;
+}
+.link{
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 500;
+    font-size: 18px;
+}

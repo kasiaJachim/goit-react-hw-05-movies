@@ -1,0 +1,22 @@
+.listOfMovies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    list-style: none;
+    justify-content: center;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+  }
+  
+  .title {
+    
+    text-align: center;
+    color: black;
+    font-weight: 700;
+  }
+  .noImg{
+    width: 500px;
+    height: 700px;
+  }
