@@ -34,7 +34,6 @@ export const fetchMovieDetails = async id => {
     const { data } = await instance.get(`/movie/${id}`, {
       params: { language: 'en-US' },
     });
-    console.log(data);
     return data;
   
   } catch (error) {
